@@ -9,6 +9,7 @@ function		: communicate with the pressure regulator, include:
 				  obtain regulator status
 				  read pressures
 				  set pressures
+note: this file is not required if manual control of the MFCS_EZ is used.      
 ******************************************************************************
 """
 from __future__ import print_function	# Used for "print" function compatibility between Python 2.x and 3.x versions
